@@ -1,1 +1,3 @@
-readme.txt is a tutorial, 
+readme.txt
+
+editing before the pull request
